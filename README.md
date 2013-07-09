@@ -46,4 +46,4 @@ Initiate it by running:
 
     python STATUS.py
 
-Kill it with a ctrl-c
+Kill it with a ctrl-c.
