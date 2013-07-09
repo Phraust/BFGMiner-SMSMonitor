@@ -13,27 +13,25 @@ This is a work in progress, and was originally written by a friend.  PolrPaul fr
 REQUIREMENTS
 ------------
 
-Python
-I'm using 2.7.2 on OSX Lion
+* Python (I'm using 2.7.2 on OSX Lion)
+* [pygooglevoice](https://code.google.com/p/pygooglevoice/)
+* [Google Voice Account](http://voice.google.com)
+* Email account/server
 
-[pygooglevoice](https://code.google.com/p/pygooglevoice/)
-
-
-for OSX, [there is a fix](https://code.google.com/r/bwpayne-pygooglevoice-auth-fix/source/checkout) to get it working
-
-Email account/server
-For sending emails.
-
-Goovle Voice Account
-For sending SMS Messages.
-
+With OSX, [there is a fix](https://code.google.com/r/bwpayne-pygooglevoice-auth-fix/source/checkout) to get Google Voice working.
 
 SETUP
 -----
 
 Pretty self explanitory in the source comments.
 
-Change the User Variables to whatever you want for your BFGMiner Host & Port, SMS Number, SMS Messsage, Timeout (in seconds) and email information.
+Change the User Variables to whatever you want for:
+
+* BFGMiner Host & Port
+* SMS Number
+* SMS Messsage
+* Timeout (in seconds)
+* E-Mail information
 
 *Right now it has the email functions commented out, so it'll only send SMS messages (I Hate waking up to a bajillion emails telling me something is wrong, when an SMS would have woken me up instead).  Uncomment the email lines on line 122 &122 to turn this on, but be warned, it will email you after every timeout once a problem is detected.
 
