@@ -16,11 +16,10 @@ REQUIREMENTS
 Python
 I'm using 2.7.2 on OSX Lion
 
-pygooglevoice
-https://code.google.com/p/pygooglevoice/
+[pygooglevoice](https://code.google.com/p/pygooglevoice/)
 
-for OSX, there is a fix to get it working
-https://code.google.com/r/bwpayne-pygooglevoice-auth-fix/source/checkout
+
+for OSX, [there is a fix](https://code.google.com/r/bwpayne-pygooglevoice-auth-fix/source/checkout) to get it working
 
 Email account/server
 For sending emails.
@@ -38,10 +37,12 @@ Change the User Variables to whatever you want for your BFGMiner Host & Port, SM
 
 *Right now it has the email functions commented out, so it'll only send SMS messages (I Hate waking up to a bajillion emails telling me something is wrong, when an SMS would have woken me up instead).  Uncomment the email lines on line 122 &122 to turn this on, but be warned, it will email you after every timeout once a problem is detected.
 
+
 RUNNING
 -------
 
 Initiate it by running:
+
     python STATUS.py
 
 Kill it with a ctrl-c
