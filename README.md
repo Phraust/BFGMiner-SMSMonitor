@@ -28,10 +28,13 @@ Pretty self explanitory in the source comments.
 Change the User Variables to whatever you want for:
 
 * BFGMiner Host & Port
+* Number of Device to Monitor
 * SMS Number
 * SMS Messsage
 * Timeout (in seconds)
 * E-Mail information
+
+*Single SCs are seen as 16 devices, BitForce FPGA singles are seen as one device.*
 
 *Right now it has the email functions commented out, so it'll only send SMS messages (I Hate waking up to a bajillion emails telling me something is wrong, when an SMS would have woken me up instead).  Uncomment the email lines on line 1220 & 121 to turn this on, but be warned, it will email you after every timeout once a problem is detected.*
 
