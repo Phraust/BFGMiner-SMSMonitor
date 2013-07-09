@@ -15,7 +15,7 @@ REQUIREMENTS
 
 * Python (I'm using 2.7.2 on OSX Lion)
 * [pygooglevoice](https://code.google.com/p/pygooglevoice/)
-* [Google Voice Account](http://voice.google.com)
+* [Google Voice Account](https://voice.google.com)
 * Email account/server
 
 *With OSX, [there is a fix](https://code.google.com/r/bwpayne-pygooglevoice-auth-fix/source/checkout) to get Google Voice working.*
