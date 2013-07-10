@@ -18,7 +18,7 @@ REQUIREMENTS
 * [Google Voice Account](https://voice.google.com)
 * Email account/server
 
-*With OSX, [there is a fix](https://code.google.com/r/bwpayne-pygooglevoice-auth-fix/source/checkout) to get Google Voice working.*
+*[There is a fix](https://code.google.com/r/bwpayne-pygooglevoice-auth-fix/source/checkout) needed to get Google Voice working.*
 
 SETUP
 -----
