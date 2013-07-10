@@ -36,7 +36,7 @@ Change the User Variables to whatever you want for:
 
 *Single SCs are seen as 16 devices, BitForce FPGA singles are seen as one device.*
 
-*Right now it has the email functions commented out, so it'll only send SMS messages (I Hate waking up to a bajillion emails telling me something is wrong, when an SMS would have woken me up instead).  Uncomment the email lines on line 1220 & 121 to turn this on, but be warned, it will email you after every timeout once a problem is detected.*
+*Right now it has the email functions commented out, so it'll only send SMS messages (I hate waking up to a bajillion emails telling me something is wrong, when an SMS would have woken me up instead).  Uncomment the email lines on line 120 & 121 to turn this on, but be warned, it will email you after every timeout once a problem is detected.*
 
 
 RUNNING
