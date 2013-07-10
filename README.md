@@ -49,8 +49,8 @@ Initiate it by running:
 Kill it with a ctrl-c.
 
 
-SHOUTS
-------
+BIG UPS
+-------
 
-Phraust: 1nbTFZTFy8Wtbti3LhnLFZgd5YTBrXjaU
-Porlpaul: 1PoLrPXHmd3UZ2b8duU6k19pujA9cpEpSt
+* Phraust: 1nbTFZTFy8Wtbti3LhnLFZgd5YTBrXjaU
+* Porlpaul: 1PoLrPXHmd3UZ2b8duU6k19pujA9cpEpSt
