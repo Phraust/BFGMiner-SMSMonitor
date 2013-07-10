@@ -47,3 +47,10 @@ Initiate it by running:
     python STATUS.py
 
 Kill it with a ctrl-c.
+
+
+SHOUTS
+------
+
+Phraust: 1nbTFZTFy8Wtbti3LhnLFZgd5YTBrXjaU
+Porlpaul: 1PoLrPXHmd3UZ2b8duU6k19pujA9cpEpSt
