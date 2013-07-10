@@ -3,7 +3,7 @@ BFGMiner-SMSMonitor
 
 A simple python script that connects to BFGMiner and monitors the status of your mining hardware.  If any devices drop off, it can restart BFGMiner and send you either an SMS, E-Mail or both.
 
-This is a work in progress, and was originally written by a friend.  PolrPaul from the Butterfly Labs forum also helped out a bunch by including SMS messagins via Google Voice.
+This is a work in progress, and was originally written by a friend.  PolrPaul from the Butterfly Labs forum also helped out a bunch by including SMS messaging via Google Voice.
 
 *I have been using this with BFGMiner 3.1.1 on OSX using both Butterfly Labs SC Singles and their BitForce FPGA Singles, so I haven't tested it with any other hardware.*
 
