@@ -5,7 +5,7 @@ A simple python script that connects to BFGMiner and monitors the status of your
 
 This is a work in progress, and was originally written by a friend.  PolrPaul from the Butterfly Labs forum also helped out a bunch by including SMS messaging via Google Voice.
 
-*I have been using this with BFGMiner 3.1.1 on OSX using both Butterfly Labs SC Singles and their BitForce FPGA Singles, so I haven't tested it with any other hardware.*
+*I have been using this with BFGMiner 3.1.1 and 3.1.2 on OSX using both Butterfly Labs SC Singles and their BitForce FPGA Singles, so I haven't tested it with any other hardware.*
 
 *It should work with CGMiner, but I haven't tested it.*
 
