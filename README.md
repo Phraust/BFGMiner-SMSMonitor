@@ -5,7 +5,7 @@ A simple python script that connects to BFGMiner and monitors the status of your
 
 This is a work in progress, and was originally written by a friend.  PolrPaul from the Butterfly Labs forum also helped out a bunch by including SMS messagins via Google Voice.
 
-*I have been using this with BFGMiner 3.1.1 on OSX using both ButteFly Labs SC Singles and their BitForce FPGA Singles, so I haven't tested it with any other hardware.*
+*I have been using this with BFGMiner 3.1.1 on OSX using both Butterfly Labs SC Singles and their BitForce FPGA Singles, so I haven't tested it with any other hardware.*
 
 *It should work with CGMiner, but I haven't tested it.*
 
@@ -36,7 +36,7 @@ Change the User Variables to whatever you want for:
 
 *Single SCs are seen as 16 devices, BitForce FPGA singles are seen as one device.*
 
-*Right now it has the email functions commented out, so it'll only send SMS messages (I hate waking up to a bajillion emails telling me something is wrong, when an SMS would have woken me up instead).  Uncomment the email lines on line 120 & 121 to turn this on, but be warned, it will email you after every timeout once a problem is detected.*
+*Right now it has the email functions commented out, so it'll only send SMS messages (I hate waking up to a bajillion emails telling me something is wrong, when an SMS would have woken me up instead).  Uncomment the email lines 120 & 121 to turn this on, but be warned, it will email you after every timeout once a problem is detected.*
 
 
 RUNNING
